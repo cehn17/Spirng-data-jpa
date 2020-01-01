@@ -1,4 +1,4 @@
-package com.cehn17.springboot.app.service;
+package com.cehn17.springboot.app.models.service;
 
 import java.util.List;
 
